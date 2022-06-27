@@ -1,0 +1,11 @@
+{
+  "name": "PistonsScraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bmurf17/PistonsScraper.git",
+  "author": "Brendan Murphy <brendan.murphy@ostusaa.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^15.1.1"
+  }
+}
